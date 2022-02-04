@@ -1,0 +1,17 @@
+@charset "UTF-8";
+p {
+    font-weight: bold;
+    font-size: 17;
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}
+
+body {
+    background-color: cyan;
+}
+
+h2 {
+    font-family: 'Verdana', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: blueviolet;
+}
